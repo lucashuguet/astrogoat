@@ -62,10 +62,10 @@ export const Projects = () => {
             </Card>
           </Item>
         ))}
-        <Item key="9" as="a" href="https://blog.astrogoat.tk" target="_blank" rel="noopener <noreferre></noreferre>r" theme={theme}>
+        <Item key="9" as="a" href="https://projects.astrogoat.tk" target="_blank" rel="noopener <noreferre></noreferre>r" theme={theme}>
           <Card theme={theme}>
             <Content>
-              <Button as="a" href="https://blog.astrogoat.tk">
+              <Button as="a" href="https://projects.astrogoat.tk">
                 Jouer
               </Button>
             </Content>
